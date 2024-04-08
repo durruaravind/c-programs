@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "print-Textfile_in_C.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
